@@ -1,6 +1,6 @@
 """BIC sampling and racing"""
 
-# Author: Wenlu Xu wenluxu@ucla.edu
+# Author: *
 
 import math
 import random
