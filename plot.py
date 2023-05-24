@@ -1,6 +1,6 @@
 """Codes for plots """
 
-# Author: Wenlu Xu wenluxu@ucla.edu
+# Author: *
 
 import pandas as pd
 import numpy as np
