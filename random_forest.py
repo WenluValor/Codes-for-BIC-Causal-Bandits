@@ -1,6 +1,6 @@
 """Random Forest in contextual bandit """
 
-# Author: Wenlu Xu wenluxu@ucla.edu
+# Author: *
 
 import random
 import pandas as pd
